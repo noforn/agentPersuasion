@@ -26,7 +26,7 @@ An Agent that integrates with Google Calendar, Kasa smart lights, and travel pla
 ```python
 uv venv --python 3.11
 source venv/bin/activate
-uv pip install -r requirements.txt
+uv pip install -r this_mcp_agent/requirements.txt
 mv .env-exp .env
 ```
 *   Set up environment variables for API keys and tokens:
