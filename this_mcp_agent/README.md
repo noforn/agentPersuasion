@@ -10,7 +10,6 @@ An Agent that integrates with Google Calendar, Kasa smart lights, and travel pla
 *   **Travel Planning:**
     *   Search for accommodations using Airbnb.
     *   Get directions and location information using Google Maps.
-*   **General Question Answering:** Responds to general queries using its knowledge base and search capabilities.
 *   **Proactive Monitoring:** Periodically checks Slack and provides status updates.
 
 ## Use Cases
