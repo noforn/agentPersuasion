@@ -1,7 +1,7 @@
-# Project Title: MCP Agent - Slack Assistant
+# MCP Agent Test
 
 ## Overview
-A Slack bot that integrates with Google Calendar, Kasa smart lights, and travel planning tools (Airbnb, Google Maps) to act as a personal assistant. It monitors a Slack channel for commands and can also answer general questions.
+An Agent that integrates with Google Calendar, Kasa smart lights, and travel planning tools (Airbnb, Google Maps) to act as a personal assistant. It monitors a Slack channel for user input.
 
 ## Features
 *   **Google Calendar Integration:** List upcoming events, create new events, and delete existing events.
