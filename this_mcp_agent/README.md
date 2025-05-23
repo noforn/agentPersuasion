@@ -27,6 +27,7 @@ An Agent that integrates with Google Calendar, Kasa smart lights, and travel pla
 uv venv --python 3.11
 source venv/bin/activate
 uv pip install -r requirements.txt
+mv .env-exp .env
 ```
 *   Set up environment variables for API keys and tokens:
     *   `GOOGLE_API_KEY`
