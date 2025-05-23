@@ -1,0 +1,6 @@
+google-adk
+google-genai
+python-kasa
+python-dotenv
+asyncio
+traceback
