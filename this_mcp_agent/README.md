@@ -1,4 +1,4 @@
-# MCP Agent Test
+# MCP Agent Testing
 
 ## Overview
 An Agent that integrates with Google Calendar, Kasa smart lights, and travel planning tools (Airbnb, Google Maps) to act as a personal assistant. It monitors a Slack channel for user input.
